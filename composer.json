@@ -1,0 +1,16 @@
+{
+    "name": "centraleffects/email-countdown",
+    "description": "Email countdown timer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rex Bengil",
+            "email": "centraleffects@yahoo.com"
+        }
+    ],
+    "homepage": "https://github.com/centraleffects/EmailCountdown",
+    "require": {
+        "php": ">=5.2.0"
+    }
+}
